@@ -1,4 +1,4 @@
-# byes_a_b_tests
+# bayesian-a-b-testing-1
 
 1. Generate test data;
 <br>
@@ -25,3 +25,6 @@
 <p align="center">
   
 <img width="563" alt="Снимок экрана 2023-10-16 в 22 34 27" src="https://github.com/kodinkod/byes_a_b_tests/assets/69761539/46a72a9e-0494-4e24-8c6d-943d44d092a0">
+
+
+# bayesian-a-b-testing-2

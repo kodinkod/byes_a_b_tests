@@ -7,7 +7,7 @@
 <b>Test group</b>  - Data about the same system on which we are testing new hypotheses (changed the color of the "buy" button).  number of observations, number of target events;
 
 
-3. 
+2. 
 <p align="center">
 <img width="596" align=center  src="https://github.com/kodinkod/byes_a_b_tests/assets/69761539/418fb799-bcd0-47b4-b1df-7d8b5b34b0a4">
   
@@ -16,6 +16,9 @@
 </p>
 
 3. Calculating the lift
+
 <p align="center">
 <img width="383"  src="https://github.com/kodinkod/byes_a_b_tests/assets/69761539/e3ece01c-7bad-407a-b275-e39647bd4647">
 </p>
+
+4. <img width="563" alt="Снимок экрана 2023-10-16 в 22 34 27" src="https://github.com/kodinkod/byes_a_b_tests/assets/69761539/46a72a9e-0494-4e24-8c6d-943d44d092a0">

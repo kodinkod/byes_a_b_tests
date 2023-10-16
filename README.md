@@ -9,3 +9,6 @@
     λ - conversion, n - number of observations, c - number of target events, (a,b) - parameters of a priori probability.
 
 </p>
+
+3. calculating the lift
+    'lift=(beta_T.mean()-beta_C.mean())/beta_C.mean()'

@@ -1,8 +1,11 @@
 # byes_a_b_tests
 
-1. Generate test data 
+1. Generate test data; 
+Control - Data about the system on which nothing has changed (the website page with the 'buy' button). number of observations, number of target events;
+Test - Data about the same system on which we are testing new hypotheses (changed the color of the "buy" button).  number of observations, number of target events;
 
-2. 
+
+3. 
 <p align="center">
 <img width="596" align=center  src="https://github.com/kodinkod/byes_a_b_tests/assets/69761539/418fb799-bcd0-47b4-b1df-7d8b5b34b0a4">
   

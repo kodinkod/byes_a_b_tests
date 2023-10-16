@@ -1,4 +1,5 @@
 # bayesian-a-b-testing-1  [notebooks](https://github.com/kodinkod/byes_a_b_tests/blob/main/bayesian-a-b-testing-1/pipline_1.ipynb)
+p.s this is a project for learning. Supplemented
 
 ## 1. Generate test data;
 <br>

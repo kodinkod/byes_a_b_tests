@@ -2,6 +2,7 @@
 
 1. Generate test data; 
 Control - Data about the system on which nothing has changed (the website page with the 'buy' button). number of observations, number of target events;
+
 Test - Data about the same system on which we are testing new hypotheses (changed the color of the "buy" button).  number of observations, number of target events;
 
 

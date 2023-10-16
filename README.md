@@ -15,7 +15,7 @@
 
 </p>
 
-3. calculating the lift
+3. Calculating the lift
 <p align="center">
 <img width="383"  src="https://github.com/kodinkod/byes_a_b_tests/assets/69761539/e3ece01c-7bad-407a-b275-e39647bd4647">
 </p>

@@ -2,9 +2,9 @@
 
 1. Generate test data;
 <br>
-*Control group* - Data about the system on which nothing has changed (the website page with the 'buy' button). number of observations, number of target events;
+<b>Control group</b> - Data about the system on which nothing has changed (the website page with the 'buy' button). number of observations, number of target events;
 <br>
-*Test group*  - Data about the same system on which we are testing new hypotheses (changed the color of the "buy" button).  number of observations, number of target events;
+<b>Test group</b>  - Data about the same system on which we are testing new hypotheses (changed the color of the "buy" button).  number of observations, number of target events;
 
 
 3. 

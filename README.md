@@ -13,7 +13,8 @@
   
     λ - conversion, n - number of observations, c - number of target events, (a,b) - parameters of a priori probability.
 
-
+</p>
+<p align="center">
 <img width="537" alt="Снимок экрана 2023-10-16 в 22 47 05" src="https://github.com/kodinkod/byes_a_b_tests/assets/69761539/18bde7a9-d811-4603-ad46-0146576e53bf"> 
 </p>
 

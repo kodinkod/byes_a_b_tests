@@ -25,7 +25,8 @@
 <p align="center">
   
 <img width="563" alt="Снимок экрана 2023-10-16 в 22 34 27" src="https://github.com/kodinkod/byes_a_b_tests/assets/69761539/46a72a9e-0494-4e24-8c6d-943d44d092a0">
-</b>
+</p>
+
 5. Plot pdf (example)
 <img width="537" alt="Снимок экрана 2023-10-16 в 22 47 05" src="https://github.com/kodinkod/byes_a_b_tests/assets/69761539/18bde7a9-d811-4603-ad46-0146576e53bf"> 
 

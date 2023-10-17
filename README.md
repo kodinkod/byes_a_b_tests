@@ -1,5 +1,13 @@
-# bayesian-a-b-testing-1  [notebooks](https://github.com/kodinkod/byes_a_b_tests/blob/main/bayesian-a-b-testing-1/pipline_1.ipynb)
+# bayesian-a-b-testing; Simple pipline:  [notebooks](https://github.com/kodinkod/byes_a_b_tests/blob/main/bayesian-a-b-testing-1/pipline_1.ipynb)
 p.s this is a project for learning. Supplemented
+
+<b>Prior distribution</b> - (Befor experiments)  the distribution is taken as an a priori distribution is - Beta(1,1); 
+<p align="center">
+<img width="596" align=center  src="img/114_3_47174801bf.gif">
+</p>
+
+<b>Posterior distribution</b> - need to calculate (step 1.)
+
 
 ## 1. Generate test data;
 <br>
@@ -8,7 +16,7 @@ p.s this is a project for learning. Supplemented
 <b>Test group</b>  - Data about the same system on which we are testing new hypotheses (changed the color of the "buy" button).  number of observations, number of target events;
 
 
-## 2. PDF's fot r test and control group
+## 2. PDF's fot r test and control group (Calculate posterior probability)
 <p align="center">
 <img width="596" align=center  src="img/aposterioir_pdf.png">
   
@@ -27,12 +35,12 @@ p.s this is a project for learning. Supplemented
 
 ## 4. Calculating probabiliti -  [code](https://github.com/kodinkod/byes_a_b_tests/blob/main/bayesian-a-b-testing-1/calc_prob.py)
 <p align="center">
-  
-<img width="563" alt="Снимок экрана 2023-10-16 в 22 34 27" src="img/probability_criterion.png">
+<img width="563" src="img/probability_criterion.png">
 </p>
 
-### Read 
+### References
  - [ Bayesian A/B Testing with Python: the easy guide ](https://towardsdatascience.com/bayesian-a-b-testing-with-python-the-easy-guide-d638f89e0b8a)
+ - [Formulas for Bayesian A/B Testing](https://www.evanmiller.org/bayesian-ab-testing.html)
+ - [Bayesian A/B Testing: a step-by-step guide](http://www.claudiobellei.com/2017/11/02/bayesian-AB-testing/#mjx-eqn-eqposterior_analytic)
+ 
 
-
-# bayesian-a-b-testing-2

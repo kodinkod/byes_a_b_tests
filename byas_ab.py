@@ -10,7 +10,7 @@ class AB_experiment():
     """
     def __init__(self, all_ctrl, target_ctrl,
                 all_test, target_test,
-                name = " Experiment n. ") -> None:
+                name = ) -> None:
         
         #This is the known data
         self.all_ctrl, self.target_ctrl = all_ctrl, target_ctrl 
@@ -78,7 +78,6 @@ class AB_experiment():
 
             Test option lift Conversion Rates by {self.lift}
             with {self.probability*100:2.1f}% probability;
-            ================================================
             """
         return s
     

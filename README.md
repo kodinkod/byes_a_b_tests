@@ -1,3 +1,8 @@
+
+# quick start
+Use my packet [byas_ab.py](https://github.com/kodinkod/byes_a_b_tests/blob/main/byas_ab.py) like in [quick_start](https://github.com/kodinkod/byes_a_b_tests/blob/main/quick_start.ipynb)
+
+
 # bayesian-a-b-testing; Simple pipline:  [notebooks](https://github.com/kodinkod/byes_a_b_tests/blob/main/bayesian-a-b-testing-1/pipline_1.ipynb)
 p.s this is a project for learning. Supplemented
 <hr>

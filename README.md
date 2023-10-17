@@ -2,12 +2,12 @@
 p.s this is a project for learning. Supplemented
 
 <b>Prior distribution</b> - (Befor experiments)  the distribution is taken as an a priori distribution is - Beta(1,1); 
-<p align="center">
-<img width="596" align=center  src="img/114_3_47174801bf.gif">
-</p>
 
 <b>Posterior distribution</b> - need to calculate (step 1.)
 
+<p align="center">
+<img width="596" align=center  src="img/114_3_47174801bf.gif">
+</p>
 
 ## 1. Generate test data;
 <br>

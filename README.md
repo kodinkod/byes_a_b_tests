@@ -1,6 +1,6 @@
 # bayesian-a-b-testing; Simple pipline:  [notebooks](https://github.com/kodinkod/byes_a_b_tests/blob/main/bayesian-a-b-testing-1/pipline_1.ipynb)
 p.s this is a project for learning. Supplemented
-
+<hr>
 <b>Prior distribution</b> - (Befor experiments)  the distribution is taken as an a priori distribution is - Beta(1,1); 
 
 <b>Posterior distribution</b> - need to calculate (step 1.)

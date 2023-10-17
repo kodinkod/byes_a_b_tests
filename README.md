@@ -31,6 +31,8 @@ p.s this is a project for learning. Supplemented
 <img width="563" alt="Снимок экрана 2023-10-16 в 22 34 27" src="img/probability_criterion.png">
 </p>
 
+### Read 
+ - [ Bayesian A/B Testing with Python: the easy guide ](https://towardsdatascience.com/bayesian-a-b-testing-with-python-the-easy-guide-d638f89e0b8a)
 
 
 # bayesian-a-b-testing-2

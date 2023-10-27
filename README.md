@@ -21,7 +21,7 @@ p.s this is a project for learning. Supplemented
 <b>Test group</b>  - Data about the same system on which we are testing new hypotheses (changed the color of the "buy" button).  number of observations, number of target events;
 
 
-## 2. PDF's fot r test and control group (Calculate posterior probability)
+## 2. PDF's for test and control group (Calculate posterior probability)
 <p align="center">
 <img width="596" align=center  src="img/aposterioir_pdf.png">
   

@@ -28,9 +28,7 @@ p.s this is a project for learning. Supplemented
     λ - conversion, n - number of observations, c - number of target events, (a,b) - parameters of a priori probability.
 
 </p>
-<p align="center">
-<img width="537"  src="img/aposterioir_pdf.png"> 
-</p>
+
 
 ## 3. Calculating the lift
 
